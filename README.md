@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nana, an <a href="https://linkedin.com/in/nana-kessie">IT Professional</a>☺</h1>
+<h1>Hi, I'm Nana Kessie, an <a href="https://linkedin.com/in/nana-kessie">IT Professional</a>☺</h1>
 
 <h2>👨‍💻Recent Information Technology Projects:</h2>
 
