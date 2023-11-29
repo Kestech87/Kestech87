@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kestech87/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kestech87/azure-network-protocols)
     
-- <b> The KeSsBoT </b>
+- <b> The KeSsBoT (NOT DONE YET) </b>
 
   - [Microsoft Azure Chatbot](https://github.com/Kestech87/Kessbot)
     
