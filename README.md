@@ -12,8 +12,6 @@
     
 - <b> Chatbot </b>
 
-    (HEY JOSH IM STILL WORKING ON DEPLOYING THE CHAT BOT)
-
   - [Microsoft Azure Chatbot](https://github.com/Kestech87/Kessbot)
     
 <h2>🤳Connect with me:</h2>
